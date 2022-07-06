@@ -1,0 +1,22 @@
+body {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  background-color: beige;
+  text-align: center;
+}
+
+h1 {
+  background-color: rgb(212, 231, 121);
+  text-align: center;
+}
+
+#order_button {
+  background-color: rgb(120, 102, 30);
+  border-radius: 7px;
+  height: 50px;
+  width: 100px;
+}
+#order_button a {
+  text-decoration: none;
+  color: white;
+}
